@@ -9,17 +9,17 @@ Expose two endpoints with basic athentication
 GIT Install
 
 Create a git repository in GitHub
-Clone repository in local with command : git clone <Repositoy url>
+Clone repository in local with command -> git clone <Repositoy url>
 
-setup user email and name using below commands
+setup user email and name using below commands ->
  git config --global user.name "name of the user"
  git config --global user.email "email of the user"
  
-Add the local project files to repository using below command
+Add the local project files to repository using below command ->
 git add -A
 
-Commit the code to repository using below command
+Commit the code to repository using below command ->
 git -m "commit message"
 
-push the code to git repository
+push the code to git repository ->
 git push
